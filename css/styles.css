@@ -1,0 +1,135 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 5%;
+  color: #EAF6F6;
+  margin: auto auto 100px auto;
+}
+
+.btn {
+  background: linear-gradient(#11cdd4, #11999e);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 5px 15px 5px 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.20rem;
+  margin: 50px auto 50px auto;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: linear-gradient(#30e3cb, #2bc4ad);
+}
+.contact {
+  margin: auto auto 50px auto;
+}
+
+.contact-me p {
+  width: 50%;
+  margin: auto;
+}
+
+.footer-link {
+  display: inline-block;
+  color: #11999E;
+  margin: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intruduction{
+width: 30%;
+margin: auto auto 80px auto;
+line-height: 2;
+}
+
+.profle-picture {
+  width: 12.5%;
+}
+
+.first-skillimg {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-skillimg {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  position: relative;
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px auto 20px auto;
+}
+
+.bottom-container {
+  background: #66BFBF;
+  padding: 20px;
+}
+
+.bottom-container p {
+  color: #EAF6F6;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
